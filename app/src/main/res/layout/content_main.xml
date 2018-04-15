@@ -33,8 +33,8 @@
                 android:id="@+id/card1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Card 1"
-                android:textSize="30sp" />
+                android:text="Create New Job"
+                android:textSize="25sp" />
 
         </LinearLayout>
 
@@ -61,8 +61,8 @@
                 android:id="@+id/card2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Card 2"
-                android:textSize="30sp" />
+                android:text="Job Progress"
+                android:textSize="25sp"  />
 
         </LinearLayout>
 
@@ -90,8 +90,8 @@
                 android:id="@+id/card3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Card 3"
-                android:textSize="30sp" />
+                android:text="Out For Delivery"
+                android:textSize="25sp"  />
 
         </LinearLayout>
 
@@ -120,8 +120,8 @@
                 android:id="@+id/card4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Card 4"
-                android:textSize="30sp" />
+                android:text="Accounts"
+                android:textSize="25sp"  />
 
         </LinearLayout>
 
@@ -149,8 +149,8 @@
                 android:id="@+id/card5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Card 5"
-                android:textSize="30sp" />
+                android:text="Customer Details"
+                android:textSize="25sp"  />
 
         </LinearLayout>
 
@@ -179,7 +179,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Card 6"
-                android:textSize="30sp" />
+                android:textSize="25sp"  />
 
         </LinearLayout>
 

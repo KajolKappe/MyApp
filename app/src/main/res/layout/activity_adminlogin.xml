@@ -69,19 +69,7 @@
                 android:padding="20dp"
                 android:text="Login"
                 android:textColor="@color/white" />
-
-            <Button
-                android:id="@+id/admin"
-                style="@style/Widget.AppCompat.Button.Colored"
-                android:layout_width="200dp"
-                android:layout_height="55dp"
-                android:layout_centerHorizontal="true"
-                android:layout_margin="25dp"
-                android:backgroundTint="@color/white"
-                android:elevation="2dp"
-                android:padding="20dp"
-                android:text="Admin Login"
-                android:textColor="@color/Black" />
+            
         </LinearLayout>
     </ScrollView>
 

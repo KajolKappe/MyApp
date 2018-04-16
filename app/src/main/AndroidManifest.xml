@@ -11,9 +11,7 @@
         <activity
             android:name=".MainActivity"
             android:label="Shri Umiya Art Printers"
-            android:theme="@style/AppTheme.NoActionBar">
-
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".FullscreenActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -28,6 +26,8 @@
         <activity android:name=".Login" />
         <activity android:name=".Card1" />
         <activity android:name=".Card2" />
+        <activity android:name=".adminlogin" />
+        <activity android:name=".adminpage"></activity>
     </application>
 
 </manifest>

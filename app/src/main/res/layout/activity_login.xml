@@ -34,7 +34,7 @@
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="25dp"
                 android:backgroundTint="@color/colorPrimary"
-                android:hint="Enter Username"
+                android:hint="Enter Email"
                 android:textCursorDrawable="@drawable/cursor_color"
                 app:met_errorColor="@color/FireBrick"
                 app:met_floatingLabel="highlight"
